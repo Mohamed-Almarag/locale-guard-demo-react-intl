@@ -1,0 +1,8 @@
+{
+  "app.title": "Le menu du soir",
+  "app.language": "Langue",
+  "menu.add": "Ajouter à la commande",
+  "order.items": "{count, plural, =0 {Votre commande est vide} one {# plat dans votre commande} other {# plats dans votre commande}}",
+  "order.eta": "Prêt dans {minutes} minutes",
+  "order.note": "Des allergies ? <link>Prévenez la cuisine</link>"
+}

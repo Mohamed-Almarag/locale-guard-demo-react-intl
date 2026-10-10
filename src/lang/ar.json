@@ -1,0 +1,9 @@
+{
+  "app.title": "قائمة الليلة",
+  "app.language": "اللغة",
+  "menu.add": "أضف إلى الطلب",
+  "menu.spicy": "{level, select, mild {حار قليلًا} hot {حار} other {غير حار}}",
+  "order.items": "{count, plural, zero {طلبك فارغ} one {طبق واحد في طلبك} two {طبقان في طلبك} few {# أطباق في طلبك} many {# طبقًا في طلبك} other {# طبق في طلبك}}",
+  "order.eta": "جاهز خلال {minutes} دقيقة",
+  "order.note": "عندك حساسية؟ <link>أخبر المطبخ</link>"
+}

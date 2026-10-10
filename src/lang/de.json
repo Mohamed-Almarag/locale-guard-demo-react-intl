@@ -1,0 +1,10 @@
+{
+  "app.title": "Das Menü für heute Abend",
+  "app.language": "Sprache",
+  "menu.add": "Zur Bestellung hinzufügen",
+  "menu.spicy": "{level, select, mild {Leicht scharf} hot {Scharf} other {Nicht scharf}}",
+  "menu.vegan": "Vegan",
+  "order.items": "{count, plural, =0 {Deine Bestellung ist leer} one {# Gericht in deiner Bestellung} other {# Gerichte in deiner Bestellung}}",
+  "order.eta": "Fertig in {minutes} Minuten",
+  "order.note": "Allergien? <link>Sag der Küche Bescheid</link>"
+}
