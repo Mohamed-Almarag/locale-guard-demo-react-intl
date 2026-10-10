@@ -5,5 +5,9 @@
   "menu.spicy": "{level, select, mild {Mild} hot {Hot} other {Not spicy}}",
   "order.items": "{count, plural, =0 {Your order is empty} one {# dish in your order} other {# dishes in your order}}",
   "order.eta": "Ready in {minutes} minutes",
-  "order.note": "Allergies? <link>Tell the kitchen</link>"
+  "order.note": "Allergies? <link>Tell the kitchen</link>",
+  "hours.title": "Opening hours",
+  "hours.open": "Open today from {from} to {to}",
+  "hours.closed": "Closed on {day}",
+  "hours.lastOrder": "Last orders {minutes} minutes before closing"
 }
