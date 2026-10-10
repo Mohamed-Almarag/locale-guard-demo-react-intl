@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import { FormattedMessage, FormattedNumber } from 'react-intl'
+import './menu.css'
 
 const dishes = [
   { id: 'falafel', name: 'Falafel wrap', price: 8.5, spice: 'mild' },
@@ -12,7 +13,7 @@ export function Menu() {
 
   return (
     <>
-      <ul>
+      <ul className="menu">
         {dishes.map((dish) => (
           <li key={dish.id}>
             <strong>{dish.name}</strong>
