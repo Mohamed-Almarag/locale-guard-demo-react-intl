@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 import { FormattedMessage, IntlProvider } from 'react-intl'
+import { Delivery } from './Delivery'
 import { Menu } from './Menu'
 import { languages, messages, type LanguageCode } from './i18n'
 
@@ -31,6 +32,7 @@ export function App() {
       </header>
       <main>
         <Menu />
+        <Delivery />
       </main>
     </IntlProvider>
   )

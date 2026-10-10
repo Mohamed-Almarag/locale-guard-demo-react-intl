@@ -4,5 +4,11 @@
   "menu.add": "Ajouter à la commande",
   "order.items": "{count, plural, =0 {Votre commande est vide} one {# plat dans votre commande} other {# plats dans votre commande}}",
   "order.eta": "Prêt dans {minutes} minutes",
-  "order.note": "Des allergies ? <link>Prévenez la cuisine</link>"
+  "order.note": "Des allergies ? <link>Prévenez la cuisine</link>",
+  "delivery.title": "Track your delivery",
+  "delivery.status": "{status, select, cooking {En cuisine} onTheWay {Votre livreur arrive} other {Livrée}}",
+  "delivery.rider": "{name} vous apporte votre commande",
+  "delivery.stops": "{count, plural, one {# arrêt avant vous}}",
+  "delivery.call": "Appeler {name}",
+  "delivery.rate": "C'était bien ? <b>Notez votre livreur</b>"
 }

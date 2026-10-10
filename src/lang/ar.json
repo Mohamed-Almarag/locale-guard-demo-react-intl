@@ -5,5 +5,9 @@
   "menu.spicy": "{level, select, mild {حار قليلًا} hot {حار} other {غير حار}}",
   "order.items": "{count, plural, zero {طلبك فارغ} one {طبق واحد في طلبك} two {طبقان في طلبك} few {# أطباق في طلبك} many {# طبقًا في طلبك} other {# طبق في طلبك}}",
   "order.eta": "جاهز خلال {minutes} دقيقة",
-  "order.note": "عندك حساسية؟ <link>أخبر المطبخ</link>"
+  "order.note": "عندك حساسية؟ <link>أخبر المطبخ</link>",
+  "delivery.title": "تتبّع طلبك",
+  "delivery.status": "{state, select, cooking {المطبخ يجهّز طلبك} onTheWay {المندوب في الطريق} other {تم التوصيل}}",
+  "delivery.stops": "{count, plural, zero {أنت التالي} one {توقف واحد قبلك} two {توقفان قبلك} few {# توقفات قبلك} many {# توقفًا قبلك} other {# توقف قبلك}}",
+  "delivery.rate": "كيف كانت التجربة؟ قيّم المندوب"
 }
