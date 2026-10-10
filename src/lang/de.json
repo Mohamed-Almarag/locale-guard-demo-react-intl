@@ -6,5 +6,9 @@
   "menu.vegan": "Vegan",
   "order.items": "{count, plural, =0 {Deine Bestellung ist leer} one {# Gericht in deiner Bestellung} other {# Gerichte in deiner Bestellung}}",
   "order.eta": "Fertig in {minutes} Minuten",
-  "order.note": "Allergien? <link>Sag der Küche Bescheid</link>"
+  "order.note": "Allergien? <link>Sag der Küche Bescheid</link>",
+  "hours.title": "Öffnungszeiten",
+  "hours.open": "Heute geöffnet von {from} bis {to}",
+  "hours.closed": "{day} geschlossen",
+  "hours.lastOrder": "Letzte Bestellung {minutes} Minuten vor Schluss"
 }

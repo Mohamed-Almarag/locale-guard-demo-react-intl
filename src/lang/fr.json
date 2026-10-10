@@ -4,5 +4,9 @@
   "menu.add": "Ajouter à la commande",
   "order.items": "{count, plural, =0 {Votre commande est vide} one {# plat dans votre commande} other {# plats dans votre commande}}",
   "order.eta": "Prêt dans {minutes} minutes",
-  "order.note": "Des allergies ? <link>Prévenez la cuisine</link>"
+  "order.note": "Des allergies ? <link>Prévenez la cuisine</link>",
+  "hours.title": "Horaires d'ouverture",
+  "hours.open": "Ouvert aujourd'hui de {from} à {to}",
+  "hours.closed": "Fermé le {day}",
+  "hours.lastOrder": "Dernières commandes {minutes} minutes avant la fermeture"
 }

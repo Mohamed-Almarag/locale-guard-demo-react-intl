@@ -5,5 +5,9 @@
   "menu.spicy": "{level, select, mild {حار قليلًا} hot {حار} other {غير حار}}",
   "order.items": "{count, plural, zero {طلبك فارغ} one {طبق واحد في طلبك} two {طبقان في طلبك} few {# أطباق في طلبك} many {# طبقًا في طلبك} other {# طبق في طلبك}}",
   "order.eta": "جاهز خلال {minutes} دقيقة",
-  "order.note": "عندك حساسية؟ <link>أخبر المطبخ</link>"
+  "order.note": "عندك حساسية؟ <link>أخبر المطبخ</link>",
+  "hours.title": "مواعيد العمل",
+  "hours.open": "مفتوح اليوم من {from} إلى {to}",
+  "hours.closed": "مغلق يوم {day}",
+  "hours.lastOrder": "آخر طلب قبل الإغلاق بـ {minutes} دقيقة"
 }
