@@ -6,5 +6,10 @@
   "menu.vegan": "Vegan",
   "order.items": "{count, plural, =0 {Deine Bestellung ist leer} one {# Gericht in deiner Bestellung} other {# Gerichte in deiner Bestellung}}",
   "order.eta": "Fertig in {minutes} Minuten",
-  "order.note": "Allergien? <link>Sag der Küche Bescheid</link>"
+  "order.note": "Allergien? <link>Sag der Küche Bescheid</link>",
+  "delivery.title": "Lieferung verfolgen",
+  "delivery.status": "{status, select, cooking {Wird gekocht} onTheWay {Unterwegs zu dir} other {Geliefert}",
+  "delivery.rider": "{name} bringt deine Bestellung",
+  "delivery.stops": "{count, plural, =0 {Du bist als Nächstes dran} one {# Stopp vor dir} other {# Stopps vor dir}}",
+  "delivery.call": "{name} anrufen"
 }
